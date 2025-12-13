@@ -41,9 +41,7 @@ Built using **Streamlit + LangChain + Google Gemini models**.
 
 ---
 
-## 📷 Demo
-
-![App Demo](assets/demo.png)
+## Demo
 
 ---
 
@@ -64,6 +62,7 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 
 ## Add API KEYS
 GOOGLE_API_KEY=your_key
+
 GROQ_API_KEY=your_key
 
 
@@ -97,4 +96,5 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 
 Kishlay Kumar
+
 Aspiring Data Scientist | GenAI & ML Enthusiast
