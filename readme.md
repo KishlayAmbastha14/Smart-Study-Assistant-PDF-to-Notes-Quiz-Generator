@@ -1,3 +1,4 @@
+## click_me - https://smart-study-assistant-pdf-to-notes-quiz-generator-00.streamlit.app/
 # 📘 Smart Study Assistant
 
 An AI-powered study assistant that converts **text or PDFs** into  
